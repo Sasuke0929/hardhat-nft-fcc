@@ -16,8 +16,6 @@
 </p>
 <br/>
 
-
-
 We go through creating 3 different kinds of NFTs.
 
 1. A Basic NFT
